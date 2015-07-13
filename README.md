@@ -1,4 +1,4 @@
-go-boilerplate
+go-sample
 ==============
 
-sample go web app
+sample go sample
